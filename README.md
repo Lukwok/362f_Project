@@ -16,7 +16,7 @@ If not running:
 ### Import Data
 Import the data in your database server (My SQL Work brench)
 1.  **Server** -> **Data Impot**
-2. Choose**Import from Self-Contained File** and load the database file
+2. Choose **Import from Self-Contained File** and load the database file
 	*(database file: /database/db.sql)*
 3.  Create a new Default target Schema: **362f**
 4. Choose **Dump Structure and Data**
