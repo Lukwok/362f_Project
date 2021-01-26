@@ -15,12 +15,12 @@ If not running:
 
 ### Import Data
 Import the data in your database server (My SQL Work brench)
-1.  **Server** :fa-long-arrow-right: **Data Impot**
+1.  **Server** -> **Data Impot**
 2. Choose** Import from Self-Contained File** and load the database file
 	*(database file: /database/db.sql)*
 3.  Create a new Default target Schema: **362f**
 4. Choose **Dump Structure and Data**
-5. **Import Progress** :fa-long-arrow-right: **Start Impot**
+5. **Import Progress** -> **Start Impot**
 
 ![](https://github.com/Lukwok/362f_Project/blob/main/ReadMe_image/import_data.jpg)
 
