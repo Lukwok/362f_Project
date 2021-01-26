@@ -38,7 +38,7 @@ There will be 3 tables in the schema after the import and refresh your database 
 
 ![](https://github.com/Lukwok/362f_Project/blob/main/ReadMe_image/Connection.jpg)
 
-##How to Run
+## How to Run
 1.  Install python library
 ```bash
 pip install mysql-connector
