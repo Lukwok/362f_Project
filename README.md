@@ -34,7 +34,7 @@ There will be 3 tables in the schema after the import and refresh your database 
                               host='127.0.0.1',database='362f')
 ```
 2. Change your **username, password, host, schema**
->**Database**-> **Mange Connect **(You can test connect to ensure your username, password is correct)
+>**Database**-> **Mange Connect** (You can test connect to ensure your username, password is correct)
 
 ![](https://github.com/Lukwok/362f_Project/blob/main/ReadMe_image/Connection.jpg)
 
